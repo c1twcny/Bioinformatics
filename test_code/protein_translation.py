@@ -1,4 +1,8 @@
 #!/usr/bin/python
+# 
+# Created: TWC
+# Date:
+# Version:
 #
 # Input: rna_codon.data test02.data
 # Output: amino acid list
