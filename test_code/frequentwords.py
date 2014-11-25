@@ -1,12 +1,17 @@
 #!/usr/bin/python
-
 #
-# Finding k-mers in DNA sequence
+# Author: TWC
+# Date:
+# Version:
 #
-# datafile: test03.data
+# Function: finding k-mers in DNA sequence
+# Inpute: datafile: test03.data
 #
-# Need two inputs: (1) DNA sequence, and (2) k-mers
+# Note: Need two inputs: (1) DNA sequence, and (2) k-mers
 # 
+# How to run the program:
+# $ ./frequentwords.py <datafile>
+#
 
 import fileinput
 import sys
