@@ -1,7 +1,14 @@
 #!/usr/bin/python
-
+#
+# Author: TWC
+# Date:
+# Version:
 # 
-# Pattern matching: find all occurrences of a pattern in a string
+# Function: find all occurrences of a specific DNA pattern in a string
+# Input:  data file; e.g. test06.data
+# Output: list of positions in an input string that match the first character
+#         of the DNA pattern (starting from the left)
+# 
 # Datafile: test06.data
 #
 import fileinput
